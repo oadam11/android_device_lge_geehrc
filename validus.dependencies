@@ -1,0 +1,12 @@
+[
+ {
+   "repository": "lollipop-og/kernel_msm",
+   "target_path": "kernel/lge/gee",
+   "branch": "gee-lollipop"
+ },
+ {
+  "repository": "lollipop-og/android_vendor_lge_gee",
+  "target_path": "vendor/lge/gee",
+  "branch": "master"
+ }
+]
